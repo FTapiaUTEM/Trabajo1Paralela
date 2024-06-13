@@ -1,0 +1,3 @@
+C:/Users/balgo/CLionProjects/paralela/cmake-build-debug/CMakeFiles/p1.dir
+C:/Users/balgo/CLionProjects/paralela/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/balgo/CLionProjects/paralela/cmake-build-debug/CMakeFiles/rebuild_cache.dir
